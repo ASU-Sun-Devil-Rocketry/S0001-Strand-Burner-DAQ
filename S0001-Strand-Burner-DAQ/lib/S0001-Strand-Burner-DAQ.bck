@@ -18,6 +18,12 @@ K Arduino nano microcontroller module USB
 F http://www.mouser.com/pdfdocs/Gravitech_Arduino_Nano3_0.pdf
 $ENDCMP
 #
+$CMP Battery
+D Multiple-cell battery
+K batt voltage-source cell
+F ~
+$ENDCMP
+#
 $CMP R_US
 D Resistor, US symbol
 K R res resistor

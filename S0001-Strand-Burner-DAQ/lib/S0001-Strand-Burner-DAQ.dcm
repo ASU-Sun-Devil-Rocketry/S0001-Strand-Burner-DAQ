@@ -24,6 +24,12 @@ K batt voltage-source cell
 F ~
 $ENDCMP
 #
+$CMP Earth
+D Power symbol creates a global label with name "Earth"
+K power-flag ground gnd
+F ~
+$ENDCMP
+#
 $CMP R_US
 D Resistor, US symbol
 K R res resistor
