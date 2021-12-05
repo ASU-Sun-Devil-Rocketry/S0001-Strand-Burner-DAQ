@@ -30,6 +30,12 @@ K power-flag ground gnd
 F ~
 $ENDCMP
 #
+$CMP LED
+D Light emitting diode
+K LED diode
+F ~
+$ENDCMP
+#
 $CMP R_US
 D Resistor, US symbol
 K R res resistor
